@@ -13,3 +13,6 @@ Source: [Lehigh Data Center](https://www2.lehigh.edu/admissions/admission-statis
 
 
 ![image](https://github.com/user-attachments/assets/c01ffcda-6f87-46a0-b237-d43112804813)
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1-aPyz93Vzbj7ZwzThROwq-0LW8Vc9ds&ehbc=2E312F" width="640" height="480"></iframe>
