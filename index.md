@@ -35,4 +35,5 @@ Source: [Lehigh Data Center](https://www2.lehigh.edu/admissions/admission-statis
 # Homework Map
 <iframe src="https://www.google.com/maps/d/embed?mid=1_rfvTLoHwgoDt0va-JcClfcekO651j4&ehbc=2E312F" width="640" height="480"></iframe>
 
+This map shows the seven wonders of the world.
 
