@@ -21,7 +21,7 @@ This data displays the percent of undergraduates enrolled in each college at Leh
 Source: [Lehigh Data Center](https://www2.lehigh.edu/admissions/admission-statistics)
 
 # Timeline
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pZe0pEjdrlXlaHx2dTCzhYbM-EOSAEz9kmhiV1s3m00&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRJbF267XuSm0CdETkg773cle5NwNbF5h2LFahb2R2NLT7aCsxIqL562upjr3G2FpKArB4-UduvGC6d&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Bar 
 ![image](https://github.com/user-attachments/assets/cdde4536-c1b3-4f86-add7-05293379dff7)
